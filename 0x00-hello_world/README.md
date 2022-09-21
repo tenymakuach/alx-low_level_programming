@@ -1,1 +1,1 @@
-C program that prints the words Programming is like building a multilingual puzzle
+C program that prints 'with proper grammar, but the outcome is a piece of art,'
